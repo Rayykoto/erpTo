@@ -22,7 +22,7 @@ Sangat penting untuk aplikasi ERP agar celah keamanan (seperti kebocoran data li
 Jika Anda menemukan celah keamanan—terutama yang berkaitan dengan isolasi data multi-tenant, autentikasi, atau hak akses—**mohon jangan membuka Issue publik**.
 
 Laporkan temuan Anda secara langsung melalui jalur privat berikut:
-- **WhatsApp / Kontak Langsung:** https://wa.me/6281314633490
+- **Email :** raymondkoto23@gmail.com
 - Atau gunakan fitur **Private Vulnerability Reporting** pada tab *Security* di repository GitHub ini.
 
 Sertakan langkah reproduksi (*steps to reproduce*) agar perbaikan dapat segera dirilis.
